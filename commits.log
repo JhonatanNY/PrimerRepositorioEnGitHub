@@ -1,0 +1,98 @@
+commit f976b80c67357db7a8f4cabecf4b179824cc2061
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Tue Jan 2 15:27:21 2024 -0500
+
+    Agregando 2 párrafos
+
+commit 8ef2bd0c9696ec74171d739de496534f99d086cb
+Merge: 0ce4906 f450831
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Tue Jan 2 14:33:17 2024 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 0ce490614f4efb2bd9581d4fcf62f75b163b78fe
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Sat Dec 30 21:35:24 2023 -0500
+
+    agregando estaciones del año con fecha de inicio
+
+commit f45083108f01fd3b47377dcbc42ff96f4384b975
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Sat Dec 30 21:35:24 2023 -0500
+
+    Agregando las estaciones del año
+
+commit b064900fec8a7adb2aa031aa02e9b2cd2636b861
+Merge: 0546922 d8297a5
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Sat Dec 30 21:01:44 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit d8297a53883cc32dd66332196882016f41a72e53
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Sat Dec 30 20:05:40 2023 -0500
+
+    Agregando index.js al index.html
+
+commit 05469229e33a3d32eeff4197848c8ee168f1abaa
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Sat Dec 30 20:01:44 2023 -0500
+
+    Agregando style.css al index.html
+
+commit e518f88cbb571c517268715e6699c0b8bbd67972
+Merge: 4d94a8a 543bdca
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Sat Dec 30 15:57:36 2023 -0500
+
+    Merge branch 'js'
+
+commit 543bdcaff04d92a840b42bebd025f682ee1409bb
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Sat Dec 30 15:50:48 2023 -0500
+
+    Creando index.js
+
+commit 4d94a8a05b15cd92bb67d863a53c7bafb3c31212
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Sat Dec 30 15:40:47 2023 -0500
+
+    Creando style.css
+
+commit cd530adeef34871e21d2cf288fb7e2312a94bb23
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Sat Dec 30 15:24:38 2023 -0500
+
+    Creando el index.html
+
+commit 3525207c32288d41796fef957be5955f459d5724
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Thu Dec 28 21:26:03 2023 -0500
+
+    Ignorando archivos .exe
+
+commit c148c77aad7442e939e1ab9025cc9ac373e720b8
+Author: JhonatanNY <123712144+JhonatanNY@users.noreply.github.com>
+Date:   Thu Dec 28 21:02:12 2023 -0500
+
+    Creando licencia del repositorio
+
+commit cbcadcbe4de1f7cdb7404348e2876b0b9bf0bc21
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Thu Dec 28 20:55:32 2023 -0500
+
+    Agregando el tercer commit README
+
+commit e01a0dfd6ed3b490c614cfd72b793818899d0174
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Thu Dec 28 20:45:39 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit 7b5bab412831be6f7392fce45126f914e626542a
+Author: JhontanNY <Jhonatanset1989@gmail.com>
+Date:   Thu Dec 28 20:40:36 2023 -0500
+
+    Primer commit
